@@ -1,27 +1,33 @@
-# Tommaso Pezzi — sito personale
+# Tommaso Pezzi — profilo professionale
 
-Sito statico personale pronto per GitHub Pages.
+Sito personale e CV digitale di Tommaso Pezzi.
 
-## Contenuto
-- `index.html` → pagina principale
-- `styles.css` → stile grafico
-- `script.js` → script minimale per anno footer
-- `assets/tommaso-pezzi-cv.pdf` → CV PDF
-- `assets/profile-web.jpg` → foto profilo ottimizzata per il sito
-- `assets/profile.jpg` → foto profilo originale ad alta risoluzione
+Il sito racconta un profilo operativo tra IT, infrastrutture, sviluppo software interno, automazioni, tool AI, consulenza tecnica e progetti imprenditoriali.
 
-## Pubblicazione su GitHub Pages
-1. Crea o usa il repository `tommasopezzi.github.io`
-2. Carica tutti i file nella root del repository
-3. Vai in `Settings > Pages`
-4. Seleziona `Deploy from a branch`
-5. Scegli `main` e `/root`
-6. Salva
+## Contenuti principali
 
-Dopo pochi minuti il sito sarà online all'indirizzo:
-`https://tommasopezzi.github.io`
+- Profilo professionale e approccio al lavoro
+- Servizi e aree operative
+- Esperienza lavorativa
+- Competenze tecniche e trasversali
+- Progetti selezionati
+- Timeline essenziale
+- Formazione e interessi
+- Contatti e link esterni
 
-## Personalizzazioni consigliate
-- Se vuoi una foto migliore, sostituisci `assets/profile-web.jpg` mantenendo lo stesso nome.
-- Aggiorna email, testo hero e progetti quando necessario.
-- Se vuoi collegare un dominio personalizzato, potrai farlo in seguito.
+## Focus
+
+Il filo conduttore del profilo è la costruzione di sistemi, strumenti e attività che devono funzionare davvero: infrastrutture IT, gestionali interni, automazioni, soluzioni AI, processi commerciali e rapporti con clienti reali.
+
+## File principali
+
+- `index.html` — struttura e contenuti della pagina
+- `styles.css` — stile grafico e layout responsive
+- `script.js` — script minimale per anno dinamico nel footer
+- `assets/profile-web.jpg` — foto profilo ottimizzata
+- `assets/tommaso-pezzi-cv.pdf` — CV PDF
+
+## Link
+
+- Sito: https://tompezzi.github.io
+- TomVintageCollection: https://tomvc.bio.link
